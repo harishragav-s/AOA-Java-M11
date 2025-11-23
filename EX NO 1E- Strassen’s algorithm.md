@@ -31,8 +31,8 @@ The Karatsuba method reduces multiplication complexity from **O(n³)** to approx
 ```
 /*
 Program to implement Integer Multiplication using Divide and Conquer (Karatsuba)
-Developed by: Naveen Kumar M
-Register Number: 212222110028
+Developed by: HARISH RAGAV S
+Register Number: 212222110013
 */
 import java.util.Scanner;
 
